@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="skyedu-api" />
+        <module name="skyedu-cms-client" />
+        <module name="skyedu-common" />
+        <module name="skyedu-manage-cms" />
+        <module name="skyedu-manage-course" />
+        <module name="skyedu-model" />
+        <module name="skyedu-utils" />
+        <module name="test-freemarker" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="skyedu-api" target="1.8" />
+      <module name="skyedu-cms-client" target="1.8" />
+      <module name="skyedu-common" target="1.8" />
+      <module name="skyedu-manage-cms" target="1.8" />
+      <module name="skyedu-manage-course" target="1.8" />
+      <module name="skyedu-model" target="1.8" />
+      <module name="skyedu-parent" target="1.8" />
+      <module name="skyedu-utils" target="1.8" />
+      <module name="test-freemarker" target="1.8" />
+      <module name="xc-framework-utils" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
