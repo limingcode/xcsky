@@ -8,15 +8,12 @@
     <file url="file://$PROJECT_DIR$/skyedu-manage-course" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/skyedu-model" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/skyedu-parent" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/skyedu-ucenter" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/skyedu-ucenter/eureka-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/skyedu-ucenter/skyedu-account" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/skyedu-ucenter/skyedu-order" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/skyedu-ucenter/skyedu-storage" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/skyedu-utils" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/xc-framework-common" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/xc-framework-model" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/xc-framework-parent" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/xc-framework-utils" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/xc-service-api" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/xc-service-manage-cms" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/xc-service-manage-cms-client" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/xc-service-manage-course" charset="UTF-8" />
     <file url="PROJECT" charset="UTF-8" />
   </component>
 </project>

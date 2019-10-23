@@ -12,6 +12,7 @@ import org.springframework.context.annotation.Configuration;
  * @author MingLi
  * @version X.0
  * @date 2019/10/20 16:46
+ * 文件的存储
  */
 
 @Configuration
@@ -25,4 +26,5 @@ class MongoConfig {
         GridFSBucket bucket = GridFSBuckets.create(database);
         return bucket;
     }
+
 }

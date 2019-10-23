@@ -6,27 +6,52 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="skyedu-api" />
+        <module name="skyedu-account" />
         <module name="skyedu-cms-client" />
-        <module name="skyedu-common" />
-        <module name="skyedu-manage-cms" />
-        <module name="skyedu-manage-course" />
-        <module name="skyedu-model" />
+        <module name="eureka-server" />
+        <module name="skyedu-api" />
+        <module name="skyedu-storage" />
         <module name="skyedu-utils" />
+        <module name="skyedu-order" />
+        <module name="skyedu-model" />
+        <module name="skyedu-common" />
+        <module name="skyedu-manage-course" />
         <module name="test-freemarker" />
+        <module name="skyedu-manage-cms" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="eureka-server" target="1.8" />
+      <module name="skyedu-account" target="1.8" />
       <module name="skyedu-api" target="1.8" />
       <module name="skyedu-cms-client" target="1.8" />
       <module name="skyedu-common" target="1.8" />
       <module name="skyedu-manage-cms" target="1.8" />
       <module name="skyedu-manage-course" target="1.8" />
       <module name="skyedu-model" target="1.8" />
+      <module name="skyedu-order" target="1.8" />
       <module name="skyedu-parent" target="1.8" />
+      <module name="skyedu-skycenter" target="1.5" />
+      <module name="skyedu-storage" target="1.8" />
+      <module name="skyedu-ucenter" target="1.8" />
       <module name="skyedu-utils" target="1.8" />
       <module name="test-freemarker" target="1.8" />
       <module name="xc-framework-utils" target="1.8" />
     </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="eureka-server" options="-parameters" />
+      <module name="skyedu-account" options="-parameters" />
+      <module name="skyedu-api" options="-parameters" />
+      <module name="skyedu-cms-client" options="-parameters" />
+      <module name="skyedu-common" options="-parameters" />
+      <module name="skyedu-manage-cms" options="-parameters" />
+      <module name="skyedu-manage-course" options="-parameters" />
+      <module name="skyedu-model" options="-parameters" />
+      <module name="skyedu-order" options="-parameters" />
+      <module name="skyedu-storage" options="-parameters" />
+      <module name="skyedu-utils" options="-parameters" />
+    </option>
   </component>
 </project>

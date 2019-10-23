@@ -26,6 +26,12 @@
         <option value="$PROJECT_DIR$/skyedu-manage-cms/pom.xml" />
         <option value="$PROJECT_DIR$/skyedu-cms-client/pom.xml" />
         <option value="$PROJECT_DIR$/skyedu-manage-course/pom.xml" />
+        <option value="$PROJECT_DIR$/skyedu-skycenter/pom.xml" />
+        <option value="$PROJECT_DIR$/skyedu-ucenter/pom.xml" />
+        <option value="$PROJECT_DIR$/skyedu-ucenter/eureka-server/pom.xml" />
+        <option value="$PROJECT_DIR$/skyedu-ucenter/skyedu-account/pom.xml" />
+        <option value="$PROJECT_DIR$/skyedu-ucenter/skyedu-order/pom.xml" />
+        <option value="$PROJECT_DIR$/skyedu-ucenter/skyedu-storage/pom.xml" />
       </list>
     </option>
   </component>

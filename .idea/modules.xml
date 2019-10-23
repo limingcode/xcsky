@@ -2,13 +2,18 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/skyedu-ucenter/eureka-server/eureka-server.iml" filepath="$PROJECT_DIR$/skyedu-ucenter/eureka-server/eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/skyedu-ucenter/skyedu-account/skyedu-account.iml" filepath="$PROJECT_DIR$/skyedu-ucenter/skyedu-account/skyedu-account.iml" />
       <module fileurl="file://$PROJECT_DIR$/skyedu-api/skyedu-api.iml" filepath="$PROJECT_DIR$/skyedu-api/skyedu-api.iml" />
       <module fileurl="file://$PROJECT_DIR$/skyedu-cms-client/skyedu-cms-client.iml" filepath="$PROJECT_DIR$/skyedu-cms-client/skyedu-cms-client.iml" />
       <module fileurl="file://$PROJECT_DIR$/skyedu-common/skyedu-common.iml" filepath="$PROJECT_DIR$/skyedu-common/skyedu-common.iml" />
       <module fileurl="file://$PROJECT_DIR$/skyedu-manage-cms/skyedu-manage-cms.iml" filepath="$PROJECT_DIR$/skyedu-manage-cms/skyedu-manage-cms.iml" />
       <module fileurl="file://$PROJECT_DIR$/skyedu-manage-course/skyedu-manage-course.iml" filepath="$PROJECT_DIR$/skyedu-manage-course/skyedu-manage-course.iml" />
       <module fileurl="file://$PROJECT_DIR$/skyedu-model/skyedu-model.iml" filepath="$PROJECT_DIR$/skyedu-model/skyedu-model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/skyedu-ucenter/skyedu-order/skyedu-order.iml" filepath="$PROJECT_DIR$/skyedu-ucenter/skyedu-order/skyedu-order.iml" />
       <module fileurl="file://$PROJECT_DIR$/skyedu-parent/skyedu-parent.iml" filepath="$PROJECT_DIR$/skyedu-parent/skyedu-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/skyedu-ucenter/skyedu-storage/skyedu-storage.iml" filepath="$PROJECT_DIR$/skyedu-ucenter/skyedu-storage/skyedu-storage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/skyedu-ucenter/skyedu-ucenter.iml" filepath="$PROJECT_DIR$/skyedu-ucenter/skyedu-ucenter.iml" />
       <module fileurl="file://$PROJECT_DIR$/skyedu-utils/skyedu-utils.iml" filepath="$PROJECT_DIR$/skyedu-utils/skyedu-utils.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/xcsky.iml" filepath="$PROJECT_DIR$/.idea/xcsky.iml" />
     </modules>
